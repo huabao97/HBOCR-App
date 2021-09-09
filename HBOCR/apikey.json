@@ -1,0 +1,23 @@
+{
+    "baiduapi": {
+        "APPID": "23717719",
+        "APIKey": "QfxClaXsLmfLkyGYZv85sEkX",
+        "SecretKey": "GOCV3rxRRwAaWLgwa3LDDLe6PSyAG20k"
+    },
+    "tencentapi": {
+        "SecretId": "",
+        "SecretKey": ""
+    },
+    "caiyunapi": {
+        "token": ""
+    },
+    "mathpixapi": {
+        "AppID": "",
+        "AppKey": ""
+    },
+    "bdfyapi": {
+        "AppID": "20201221000652704",
+        "AppKey": "uXLAZg_IyE5hsMxZLyTE"
+    },
+    "merge": "0"
+}
